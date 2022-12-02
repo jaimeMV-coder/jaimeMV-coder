@@ -28,15 +28,11 @@
 
 - 🌱 Currently learning **React, Laravel**
 
-- 🌐 Principales fuentes de aprendizaje <br>
-<img src="https://img.shields.io/badge/Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white" alt="Platzi Badge" />&nbsp;<img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp Badge" />&nbsp;<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge">
-
-
 <div align="left">
 	<h3>🔨 Languages and Tools:</h3>
 	<div>
 		<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-		<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+		<img src="[https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg](https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg)" title="SQLServer"alt="SQLServer" width="40" height="40"/>&nbsp;
 		<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 		<img src="https://static.airpair.com/img/software/node.js.icon.png" title="Git"alt="Git" width="40" height="40"/>&nbsp;
     <img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" title="Git"alt="Git" width="40" height="40"/>&nbsp;
