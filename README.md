@@ -22,7 +22,7 @@
 ### 👨‍💻 About Me :
 
 
-- 💬 Frameworks i like to use **React.js y Express,JSF(Java Server Faces) **
+- 💬 Frameworks i like to use **React.js y Express,JSF(Java Server Faces),Django **
 
 - 📫 Contact me **jaime_monroy@live.com.mx**
 
