@@ -49,7 +49,7 @@
 
 ### 📊 My Stats :
 
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaimeMV-coder&theme=chartreuse-dark&date_format=j%2Fn%5B%2FY%5D&sideNums=FFFFFF&sideLabels=40A6FF&ring=FF0000&fire=FF0000&dates=12DD70)](https://git.io/streak-stats)
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jaimeMV-coder&theme=dark&border_radius=5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
   ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jaimeMV-coder&show_icons=true&bg_color=000&text_color=40A6FFFF&icon_color=12DD70FF&title_color=12DD70FF)
 
