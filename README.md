@@ -3,7 +3,7 @@
 	<h4 align="center">Informatic Engineer.
 		A young man of 26 years fan of
       technology, lover of video games, always willing to learn new things.
-      Interested in Artificial Intelligence, Machine Learning, Data Science. I enjoy working as a team and individually..
+      Interested in Artificial Intelligence, Machine Learning, Data Science. I enjoy working as a team and individually.
 	</h4>
 </div>
 
