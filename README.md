@@ -35,13 +35,14 @@
 		<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python"alt="Python" width="40" height="40"/>&nbsp;
 		<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
 		<img src="https://static.airpair.com/img/software/node.js.icon.png" title="Git"alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" title="Git"alt="Git" width="40" height="40"/>&nbsp;
-    <img src="https://bobcares.com/wp-content/uploads/2022/06/mysql.png" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+		<img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" title="Git"alt="Git" width="40" height="40"/>&nbsp;
+    		<img src="https://bobcares.com/wp-content/uploads/2022/06/mysql.png" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 		<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 		<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Git"alt="Git" width="40" height="40"/>&nbsp;
 		<img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" title="SQLServer"alt="SQLServer" width="40" height="40"/>&nbsp;
 		<img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+    		<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+		<img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-plain.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
 	</div>
 </div>
 
